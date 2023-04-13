@@ -20,3 +20,4 @@ Essas instruções fornececerão uma cópia do projeto instalado e funcionando e
 * Execute o XAMPP e acesse a administração do MySQL (phpmyadmin)
 * Crie um novo banco de dados de nome dbagenda
 * Faça a importação do arvquivo contatos.sql para o XAMPP
+* Em "Releases" Faça o download da agenda (.jar) e execute o arquivo
