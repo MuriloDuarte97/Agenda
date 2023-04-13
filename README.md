@@ -11,10 +11,10 @@ Essas instruções fornececerão uma cópia do projeto instalado e funcionando e
 
 ### Pré requisitos
 
-*Java versão 17 ou superior
-*Banco de dados MySQL versão 8
+* Java versão 17 ou superior
+* Banco de dados MySQL versão 8
 
 ### instalação
 
-*Execute o banco de dados MySQL (localhost) como root sem nenhuma senha definida (senha em branco)
-*Crie um novo banco de dados de nome dbagenda
+* Execute o banco de dados MySQL (localhost) como root sem nenhuma senha definida (senha em branco)
+* Crie um novo banco de dados de nome dbagenda
