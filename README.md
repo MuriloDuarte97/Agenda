@@ -6,7 +6,7 @@ Simples agenda de contatos, para sistemas Windows, Linux MAC
 ## Autor
 Murilo Duarte
 
-## Instalação da versão de demonstração
+## Instalação da Agenda
 Essas instruções fornececerão uma cópia do projeto instalado e funcionando em sua maquina local.
 
 ### Pré requisitos
